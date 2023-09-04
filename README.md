@@ -6,12 +6,14 @@ The dataset used in this project is Tesla stocks history (01 September 2022 - 01
 
 # Install
     Supported Python version
-         - Python version used in this project: 3.5+
+         - Python version used in this project: 3.0+
+    Runtime environment
+         - GPU
 
 ## Libraries used
-Pandas - For smooth working and transformation of dataframe.
-Plotly - For creating high level data visualizations that comes handy.
-FBProphet - For carrying out the Time Series Forecasting.
+* Pandas - For smooth working and transformation of dataframe.
+* Plotly - For creating high level data visualizations that comes handy.
+* FBProphet - For carrying out the Time Series Forecasting.
 
 # Code
 This project has been done in Google Colab and then the evaluation is done by using Google Sheets.
