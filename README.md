@@ -2,7 +2,7 @@
 Tesla Stock Price Prediction using FBProphet forecasting tool
 
 # Dataset
-The dataset used in this project is Tesla stocks history (01 September 2022 - 01 September 2023). The real-time data is available at Yahoo finance.com which can be downloaded for free.
+The dataset used in this project is Tesla stocks history (01 September 2022 - 01 September 2023). The real-time data is available at [Yahoo finance](https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch) which can be downloaded for free.
 
 # Install
     Supported Python version
